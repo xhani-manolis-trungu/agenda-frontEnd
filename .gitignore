@@ -9,6 +9,8 @@
 /node_modules
 ./book-app-frontend/node_modules
 localhost.sh
+./book-app-frontend/package-lock.json
+./book-app-backend/package-lock.json
 
 # IDEs and editors
 /.idea
